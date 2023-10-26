@@ -28,6 +28,7 @@ Before you can run this application, make sure you have [Node.js](https://nodejs
 
     ```bash
     npm install
+    npx prisma migrate dev
     ```
 
 

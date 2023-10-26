@@ -2,6 +2,7 @@
 
 ```
 npm install
+copy .env.example .env
 npm run test
 ```
 
@@ -20,6 +21,7 @@ Before you can run this application, make sure you have [Node.js](https://nodejs
     ```bash
     git clone [your-repo-url]
     cd [your-repo-directory]
+    copy .env.example .env
     ```
 
 2. Install the dependencies:
@@ -27,6 +29,8 @@ Before you can run this application, make sure you have [Node.js](https://nodejs
     ```bash
     npm install
     ```
+
+
 
 3. Start the server:
 
